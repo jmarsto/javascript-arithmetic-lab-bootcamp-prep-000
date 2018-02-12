@@ -14,7 +14,7 @@ function divide(a, b) {
   return a / b
 }
 
-function inc(number) {
-  return parseInt(number++)
+function inc(n) {
+  return ++n
 }
 
